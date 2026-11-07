@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-labelledby="title desc">
+<title id="title">Chaudhary Araiz — Professional Profile Card</title>
+<desc id="desc">Professional profile card for Chaudhary Araiz, featuring his portrait, Client Flow Agency, selected projects, and social links.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#101b36"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00d4ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+ <clipPath id="portrait"><rect x="42" y="78" width="230" height="280" rx="20"/></clipPath>
+</defs>
+<rect width="1000" height="440" rx="28" fill="url(#bg)"/>
+<rect x="2" y="2" width="996" height="436" rx="26" fill="none" stroke="url(#accent)" stroke-width="3"/>
+<circle cx="920" cy="45" r="110" fill="#00d4ff" opacity=".06"/>
+<text x="42" y="48" fill="#48dcff" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">PERSONAL PROFILE CARD</text>
+<rect x="42" y="78" width="230" height="280" rx="20" fill="#152b49" stroke="#35547d" stroke-width="2"/>
+<image x="42" y="78" width="230" height="280" preserveAspectRatio="xMidYMid slice" xlink:href="https://raw.githubusercontent.com/chaudharyaraiz/chaudharyaraiz/main/profile/chaudhary-araiz.png" clip-path="url(#portrait)"/>
+<text x="310" y="125" fill="#f4f7ff" font-family="Arial,sans-serif" font-size="43" font-weight="700">CHAUDHARY ARAIZ</text>
+<text x="312" y="160" fill="#b7c7df" font-family="Arial,sans-serif" font-size="20">Developer  •  Digital Solutions  •  Agency Founder</text>
+<rect x="310" y="190" width="640" height="112" rx="16" fill="#0b1426" stroke="#29476d"/>
+<text x="338" y="226" fill="#48dcff" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2">CLIENT FLOW AGENCY</text>
+<text x="338" y="260" fill="#f4f7ff" font-family="Arial,sans-serif" font-size="22" font-weight="700">Building digital experiences that move businesses forward.</text>
+<text x="338" y="286" fill="#b7c7df" font-family="Arial,sans-serif" font-size="16">BlockOra Crypto Bank  •  D3 Finance  •  S by Shehnaz</text>
+<text x="312" y="350" fill="#48dcff" font-family="Arial,sans-serif" font-size="16" font-weight="700">GITHUB</text>
+<text x="405" y="350" fill="#48dcff" font-family="Arial,sans-serif" font-size="16" font-weight="700">LINKEDIN</text>
+<text x="520" y="350" fill="#48dcff" font-family="Arial,sans-serif" font-size="16" font-weight="700">PORTFOLIO</text>
+<text x="312" y="382" fill="#8fa5c4" font-family="Arial,sans-serif" font-size="14">github.com/chaudharyaraiz</text>
+<text x="405" y="405" fill="#8fa5c4" font-family="Arial,sans-serif" font-size="14">linkedin.com/in/chaudhary-araiz</text>
+<text x="720" y="405" fill="#8fa5c4" font-family="Arial,sans-serif" font-size="14">araiz-portfolio-8z6t.vercel.app</text>
+</svg>
