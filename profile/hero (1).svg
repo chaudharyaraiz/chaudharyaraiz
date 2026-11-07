@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00d4ff"/><stop offset="1" stop-color="#7867ff"/></linearGradient><pattern id="p" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#438cff" opacity=".22"/></pattern></defs>
+<rect width="1200" height="360" rx="26" fill="#070b17"/><rect width="1200" height="360" rx="26" fill="url(#p)"/><rect x="2" y="2" width="1196" height="356" rx="24" fill="none" stroke="url(#g)" stroke-width="2" opacity=".8"/>
+<text x="64" y="66" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#00d4ff">PERSONAL PROFILE · SOFTWARE &amp; AI</text>
+<text x="60" y="165" font-family="Arial,sans-serif" font-size="68" font-weight="800" fill="#f2f6ff">CHAUDHARY ARAIZ</text>
+<text x="64" y="222" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="url(#g)">AI • DIGITAL SOLUTIONS • WEB DEVELOPMENT</text>
+<text x="64" y="278" font-family="Arial,sans-serif" font-size="20" fill="#aab9d5">Building useful digital experiences with a focus on quality and impact.</text>
+<rect x="890" y="292" width="246" height="38" rx="19" fill="#101d35" stroke="#2f6bff"/><text x="1013" y="317" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#dceaff">CLIENT FLOW AGENCY</text>
+</svg>
